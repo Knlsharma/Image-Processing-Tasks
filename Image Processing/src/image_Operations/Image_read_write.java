@@ -1,4 +1,4 @@
-package image_read_write;
+package image_Operations;
 
 /**
  *
