@@ -15,9 +15,8 @@ Image processing deals with image-to-image transformation. The input and output 
 
 # Prerequisite
  
- 1. Need of java to be installed in  required system.
- 2. Import editor.java (Logic class).
- 3. For **Face Detection code** then need to install native - core in your system 
+ 1. Need of java to be installed in required system.
+ 2. For **Face Detection code** there is need to install native - core installed in system. 
  
 # Build and Run
  
