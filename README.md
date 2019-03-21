@@ -57,5 +57,26 @@ Image processing deals with image-to-image transformation. The input and output 
 <br>
 <img src= "https://github.com/Knlsharma/Image-Processing-Tasks/blob/master/Image%20Processing/Output%20Images/green_Out.jpg" width="450" height="300" alt="Image">
 
+<br>
 
- For more detail theories read [my Blog](https://knlsharma.github.io/blog/2019/03/11/Image-Processing).
+ * Mirror Image 
+<img src= "https://github.com/Knlsharma/Image-Processing-Tasks/blob/master/Image%20Processing/Output%20Images/mirror_Out.jpg" width="600" height="300" alt="Image">
+
+<br>
+
+ * Enhancement Image
+<img src= "https://github.com/Knlsharma/Image-Processing-Tasks/blob/master/Image%20Processing/Output%20Images/oenhancement_utput.png" width="600" height="300" alt="Image">
+
+<br>
+
+* Oriented Image 
+
+  <img src= "https://github.com/Knlsharma/Image-Processing-Tasks/blob/master/Image%20Processing/Output%20Images/oriented_Out.png"  width="600" height="300" alt="Image">
+ 
+ <br>
+ 
+ * Water-Marked Image
+ <img src="https://github.com/Knlsharma/Image-Processing-Tasks/blob/master/Image%20Processing/Output%20Images/watermark_output.png" width="600" height="300" alt="Image">
+     
+ <br>
+ For more detail theories read [my Blog on Image Processing](https://knlsharma.github.io/blog/2019/03/11/Image-Processing).
