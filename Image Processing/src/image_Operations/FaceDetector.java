@@ -7,8 +7,6 @@ package image_Operations;
  */
 
  import org.opencv.core.*;
-import org.opencv.highgui.HighGui;        
-import org.opencv.videoio.VideoCapture; 
 
 public class FaceDetector {
     
