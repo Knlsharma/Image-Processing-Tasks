@@ -3,7 +3,7 @@ package image_Operations;
 
 /**
  *
- * @author knl
+ * @author knlsharma
  */
 
 import java.awt.image.BufferedImage; 
