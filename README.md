@@ -12,6 +12,8 @@ Image processing deals with image-to-image transformation. The input and output 
 * Watermark 
 * Random Pixel
 * Mirror Image 
+* Brighter Effect
+* Contrast Effect
 
 # Prerequisite
  
